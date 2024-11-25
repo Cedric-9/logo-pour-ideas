@@ -1,0 +1,637 @@
+sweet,sour,spicy,bitter,fruity,dense,herb,Cluster,cocktail_name
+1,1,0,0,0,0,0,8,A1
+0,0,0,0,0,1,0,5,ABC
+1,0,0,0,0,3,0,29,Ace
+0,0,0,0,0,0,0,1,ACID
+1,1,0,0,0,0,0,8,Adam
+0,0,0,1,0,0,0,23,AT&T
+0,0,0,0,2,0,0,17,A. J.
+0,0,0,0,3,0,0,2,Affair
+0,0,0,0,4,0,0,2,Apello
+0,2,0,0,1,0,0,13,Avalon
+0,0,0,0,2,0,0,17,Abilene
+0,0,0,0,0,0,0,1,Addison
+0,0,0,0,0,1,0,5,Almeria
+1,1,0,0,0,1,1,8,Acapulco
+1,0,0,1,0,0,0,19,Affinity
+0,1,0,0,1,0,0,11,Applecar
+0,1,0,0,0,0,0,6,Aviation
+0,0,0,0,2,0,0,17,Adam Bomb
+1,0,0,0,0,0,0,15,Addington
+0,0,0,0,1,0,0,9,After sex
+1,0,0,0,2,0,0,30,Afterglow
+0,0,0,1,0,2,0,21,Afternoon
+0,0,0,0,0,1,0,5,Alexander
+0,0,0,0,1,0,0,9,Algonquin
+0,2,0,0,0,0,0,6,Allegheny
+1,1,0,0,1,0,0,0,Americano
+0,1,0,0,1,0,0,11,Applejack
+1,0,0,1,0,0,0,19,Artillery
+0,1,0,0,0,0,0,6,Autodafé
+0,0,0,0,0,1,0,5,Avalanche
+0,0,0,0,2,0,0,17,Adam & Eve
+0,0,0,0,0,1,1,5,After Five
+0,0,0,0,0,1,0,5,Almond Joy
+0,0,0,0,2,0,0,17,Angel Face
+0,0,0,0,1,0,0,9,Aquamarine
+0,1,0,0,0,0,0,6,Archbishop
+1,0,0,0,0,0,0,15,Absinthe #2
+1,0,0,0,2,0,0,30,Absolut Sex
+0,0,0,0,2,0,0,17,Arctic Fish
+0,1,1,0,0,0,0,28,Aztec Punch
+1,1,0,0,0,0,0,8,Adam Sunrise
+0,0,0,0,0,1,0,5,Amaretto Tea
+0,0,0,0,1,0,0,9,Apple Grande
+0,0,0,0,1,0,0,9,Apple Karate
+0,1,0,0,2,1,0,4,Apricot Lady
+0,1,0,0,0,0,0,6,Army special
+1,1,0,0,0,0,0,8,Atlantic Sun
+1,0,0,1,1,0,0,19,Abbey Martini
+0,0,0,0,2,0,0,17,Amaretto fizz
+0,1,0,0,0,0,0,6,Amaretto Mist
+0,1,0,0,0,0,0,6,Amaretto Rose
+0,1,0,0,0,0,0,6,Amaretto Sour
+0,0,0,0,0,0,0,1,Aperol Spritz
+1,0,0,0,1,0,0,10,Apple Slammer
+1,0,0,0,2,0,0,30,Apricot punch
+0,0,0,0,0,0,1,14,Arise My Love
+1,1,0,0,0,0,0,8,Atomic Lokade
+0,1,0,0,0,0,0,6,A Piece of Ass
+0,0,0,1,2,0,0,17,Abbey Cocktail
+0,1,0,0,1,0,0,11,Alfie Cocktail
+1,0,0,0,2,1,0,30,Alice Cocktail
+1,0,0,0,0,0,0,15,Amaretto Shake
+0,1,1,0,1,0,0,11,Apple Highball
+1,0,0,0,1,0,0,10,Addison Special
+1,0,0,1,0,0,0,19,Adonis Cocktail
+0,1,0,0,0,0,0,6,Alabama Slammer
+0,1,0,1,0,0,0,18,Alaska Cocktail
+0,0,0,0,0,0,0,1,Allies Cocktail
+0,0,0,0,0,0,0,1,Amaretto Sunset
+1,0,0,0,3,1,0,2,Arizona Twister
+0,2,0,0,0,0,0,6,Arthur Tompkins
+0,1,0,0,1,0,0,11,Artillery Punch
+0,0,0,0,2,0,0,17,A Splash of Nash
+1,0,0,0,1,0,0,10,Amaretto Liqueur
+0,0,0,0,0,0,1,14,Amaretto Stinger
+1,0,0,0,1,0,0,10,Amaretto Sunrise
+1,0,0,0,0,0,0,15,Angelica Liqueur
+1,0,0,0,0,0,0,15,Arctic Mouthwash
+0,0,0,0,0,0,0,1,Arizona Stingers
+0,0,1,0,2,0,0,17,Autumn Garibaldi
+0,1,0,0,0,0,0,6,Absolut Evergreen
+0,1,0,1,0,0,0,18,Absolut limousine
+0,0,0,0,3,0,0,2,Absolut Stress #2
+1,1,1,0,2,0,0,4,Aloha Fruit punch
+1,1,0,0,2,0,0,4,Apple Cider Punch
+0,0,0,0,0,0,0,1,Auburn Headbanger
+1,0,0,0,1,0,0,10,A Day at the Beach
+0,1,1,0,0,0,0,28,A Furlong Too Late
+1,2,0,0,0,0,0,27,Absolut Summertime
+0,0,0,0,0,1,0,5,Amaretto And Cream
+0,1,0,0,1,0,0,11,Arizona Antifreeze
+0,0,0,0,3,0,0,2,A Gilligan's Island
+0,0,0,0,1,0,0,9,Absolutely Fabulous
+0,0,0,0,0,0,0,1,Alice in Wonderland
+0,1,0,0,1,0,0,11,Amaretto Stone Sour
+0,1,0,0,1,0,0,11,A True Amaretto Sour
+0,0,1,0,1,0,0,9,Absolutly Screwed Up
+0,0,0,0,2,0,0,17,Apple Berry Smoothie
+1,1,0,0,0,0,0,8,Adios Amigos Cocktail
+0,2,0,0,1,0,0,13,After Dinner Cocktail
+0,1,0,0,1,0,0,11,After Supper Cocktail
+0,1,0,0,2,0,0,4,Amaretto Sweet & Sour
+0,0,0,0,2,0,0,17,A midsummernight dream
+0,0,0,0,1,0,0,9,Apple Pie with A Crust
+0,2,1,0,1,0,0,13,A Night In Old Mandalay
+0,0,0,1,0,0,0,23,Almond Chocolate Coffee
+1,0,0,0,0,0,1,15,A.D.M. (After Dinner Mint)
+0,0,1,0,1,0,0,9,Absolutely Cranberry Smash
+0,1,0,0,1,0,0,11,Amaretto Stone Sour Alternative
+0,0,0,0,0,1,0,5,B-52
+0,0,0,0,0,0,0,1,B-53
+1,0,0,1,0,0,0,19,Bijou
+1,1,0,0,0,1,0,8,Boxcar
+0,0,0,0,0,1,0,5,Big Red
+0,0,0,0,1,0,0,9,Bellini
+1,1,0,0,0,0,0,8,Bramble
+1,0,0,1,0,0,0,19,Balmoral
+0,1,0,1,1,0,0,18,Bluebird
+0,0,0,1,1,0,0,26,Brooklyn
+1,1,0,0,2,0,0,4,Bora Bora
+0,0,0,1,1,0,0,26,Boomerang
+0,1,0,0,1,0,0,11,Barracuda
+1,0,0,0,1,0,0,10,Brigadier
+0,0,0,1,0,0,0,23,Broadside
+0,0,0,0,0,0,0,1,Buccaneer
+1,1,0,0,0,0,0,8,Brain Fart
+1,1,0,0,0,0,0,8,Blackthorn
+0,0,0,0,1,0,0,9,Bob Marley
+0,2,0,0,0,0,0,6,Bible Belt
+0,0,0,0,2,0,0,17,Bubble Gum
+0,0,0,0,0,1,0,5,Bumble Bee
+1,0,0,0,0,1,0,20,Baby Eskimo
+1,2,0,0,1,1,0,31,Boston Sour
+1,1,0,0,2,0,0,4,Bahama Mama
+0,0,0,0,0,1,0,5,Brainteaser
+0,2,1,0,0,0,0,28,Bloody Mary
+0,0,0,0,0,0,0,1,Black & Tan
+0,1,0,0,1,0,0,11,Blue Lagoon
+0,1,0,0,1,0,0,11,Bee's Knees
+1,0,0,0,0,2,0,29,Brandy Flip
+1,2,0,0,1,0,0,31,Brandy Sour
+1,0,0,0,0,1,0,20,Butter Baby
+1,0,0,0,1,0,0,10,Boulevardier
+1,1,0,0,2,0,0,4,Bourbon Sour
+1,0,0,0,0,1,0,20,Bruce's Puce
+1,0,0,0,0,0,0,15,Belgian Blue
+0,3,0,0,2,0,0,13,Bloody Punch
+0,0,0,0,1,0,0,9,Berry Deadly
+0,2,1,0,0,0,0,28,Bloody Maria
+0,0,0,0,0,2,0,29,Blind Russian
+0,1,0,0,1,0,0,11,Blue Mountain
+0,0,0,0,2,0,0,17,Bounty Hunter
+0,2,2,0,0,0,0,28,Bombay Cassis
+1,2,0,0,0,0,0,27,Bourbon Sling
+0,0,0,0,3,0,0,2,Bruised Heart
+0,0,0,1,0,0,0,23,Black Russian
+0,0,0,0,0,1,0,5,Baby Guinness
+1,1,0,0,2,0,0,4,Brandy Cobbler
+0,1,0,0,0,0,0,6,Blue Hurricane
+0,1,0,0,0,0,0,6,Boston Sidecar
+0,1,0,0,0,0,0,6,Blue Margarita
+0,0,0,0,1,0,0,9,Banana Cream Pi
+1,1,0,0,1,0,0,0,Banana Daiquiri
+0,1,0,0,2,0,0,4,Bellini Martini
+0,0,0,0,0,0,0,1,Black and Brown
+0,0,0,0,0,1,0,5,Brandy Alexander
+2,1,0,0,0,0,0,8,Bacardi Cocktail
+0,0,0,0,2,0,0,17,Bleeding Surgeon
+1,2,0,0,1,0,0,31,Blueberry Mojito
+0,1,0,0,0,0,0,6,Bermuda Highball
+1,2,0,0,2,0,1,4,Butterfly Effect
+1,0,0,0,1,1,0,24,Banana Milk Shake
+0,0,1,0,0,0,0,25,Brave Bull Shooter
+1,0,0,0,1,1,0,24,Black Forest Shake
+0,1,0,0,0,0,0,6,Between The Sheets
+1,0,0,0,0,2,0,29,Bailey's Dream Shake
+1,1,0,0,0,0,0,8,Bobby Burns Cocktail
+1,0,0,0,1,1,0,24,Banana Strawberry Shake
+2,0,0,0,0,2,0,12,Boozy Snickers Milkshake
+0,0,0,0,0,0,0,1,Banana Cantaloupe Smoothie
+2,0,0,0,0,0,0,7,Brandon and Will's Coke Float
+0,0,0,0,2,0,0,17,Banana Strawberry Shake Daiquiri
+0,1,0,1,1,0,0,18,Casino
+0,0,0,1,0,1,0,21,Cafe Savoy
+1,1,0,0,0,0,0,8,Caipirinha
+0,0,1,0,0,0,0,25,Cream Soda
+1,1,0,0,0,0,0,8,Cuba Libra
+0,0,0,0,1,1,0,24,Cherry Rum
+1,1,0,0,0,0,0,8,Cuba Libre
+0,1,0,1,0,0,0,18,Corn n Oil
+1,0,0,0,0,0,0,15,Citrus Coke
+0,1,0,0,0,0,0,6,Casa Blanca
+1,1,0,0,0,1,0,8,Clover Club
+1,1,0,0,0,0,0,8,Caipirissima
+0,1,0,0,0,0,0,6,City Slicker
+0,0,0,0,0,0,0,1,Campari Beer
+1,1,0,0,0,1,0,8,Chicago Fizz
+0,1,0,0,1,0,0,11,Cosmopolitan
+2,0,0,1,0,0,0,7,Coffee-Vodka
+0,1,0,1,0,1,0,18,Casino Royale
+0,1,0,0,0,0,0,6,Corpse Reviver
+1,0,0,0,0,1,0,20,Chocolate Milk
+1,0,0,0,0,0,0,15,Clove Cocktail
+2,0,0,1,0,0,0,7,Coffee Liqueur
+1,1,0,0,0,0,0,8,Coke and Drops
+1,0,0,0,0,1,0,20,Chocolate Drink
+1,0,1,0,2,0,0,30,Cranberry Punch
+1,0,0,0,0,0,1,15,Creme de Menthe
+3,0,0,0,1,1,0,3,Chocolate Monkey
+1,0,0,0,1,0,0,10,Cranberry Cordial
+1,0,0,0,0,2,0,29,Chocolate Beverage
+1,1,0,1,0,0,0,16,Champagne Cocktail
+2,2,0,0,0,0,0,27,California Lemonade
+0,0,0,0,0,0,0,1,California Root Beer
+1,1,0,1,0,1,0,16,Captain Kidd's Punch
+0,1,0,0,1,0,0,11,Cosmopolitan Martini
+0,0,0,0,0,0,0,1,Caribbean Boilermaker
+1,0,0,1,2,0,0,30,Classic Old-Fashioned
+1,0,0,0,0,0,0,15,Chocolate Black Russian
+0,1,1,1,0,0,0,18,Cocktail Horse’s Neck
+1,0,0,0,1,0,0,10,Caribbean Orange Liqueur
+1,0,0,0,0,1,0,20,Castillian Hot Chocolate
+1,1,0,0,0,0,0,8,Cherry Electric Lemonade
+0,0,0,1,0,0,1,14,Derby
+0,0,0,0,0,0,0,1,Diesel
+1,1,0,0,0,0,0,8,Daiquiri
+0,0,0,1,0,0,0,23,Danbooka
+1,0,0,0,1,0,0,10,Downshift
+0,1,1,0,0,0,0,28,Dragonfly
+0,0,0,0,0,0,0,1,Dry Martini
+0,1,0,0,0,0,0,6,Dry Rob Roy
+0,0,0,0,0,1,0,5,Dirty Nipple
+0,1,0,0,0,0,0,6,Dirty Martini
+0,0,0,0,2,0,0,17,Darkwood Sling
+0,0,1,0,0,0,0,25,Dark and Stormy
+1,1,0,0,0,0,0,8,Dark Caipirinha
+1,1,1,1,0,0,0,16,Duchamp's Punch
+0,0,1,0,0,0,0,25,Damned if you do
+0,1,0,1,0,0,0,18,Dubonnet Cocktail
+2,0,0,0,0,3,0,12,Drinking Chocolate
+0,0,0,0,0,0,0,1,Death in the Afternoon
+1,0,0,0,0,1,0,20,Egg Cream
+3,0,0,0,0,4,0,12,Egg Nog #4
+1,1,0,0,0,0,0,8,English Highball
+1,0,0,0,0,0,0,15,Espresso Martini
+1,0,0,1,0,0,0,19,Espresso Rumtini
+2,0,0,0,0,3,0,12,Egg Nog - Healthy
+1,1,0,0,2,0,0,4,English Rose Cocktail
+0,1,0,0,0,0,0,6,Elderflower Caipirinha
+2,0,0,0,0,2,0,12,Egg-Nog - Classic Cooked
+1,0,0,1,0,0,0,19,Empellón Cocina's Fat-Washed Mezcal
+1,1,0,0,1,0,0,0,Frosé
+1,0,0,1,0,1,0,21,Frappé
+0,0,0,0,0,1,0,5,Foxy Lady
+1,1,0,0,2,0,0,4,French 75
+1,0,0,2,1,0,1,26,Figgy Thyme
+0,4,0,0,0,0,0,27,Frisco Sour
+0,0,0,0,2,0,0,17,Fruit Shake
+1,1,0,0,3,0,0,4,Fruit Cooler
+0,0,0,0,0,0,0,1,Freddy Kruger
+0,1,0,0,2,0,0,4,Funk and Soul
+0,0,0,1,1,0,0,26,Fuzzy Asshole
+0,0,0,0,2,0,0,17,French Martini
+1,0,0,0,1,0,0,10,French Negroni
+0,0,1,0,0,0,0,25,Fahrenheit 5000
+0,0,0,0,0,0,0,1,Flying Dutchman
+1,1,0,0,1,0,0,0,Frozen Daiquiri
+0,0,0,0,1,0,0,9,Fruit Flip-Flop
+2,0,0,1,0,0,0,7,Flying Scotchman
+0,0,0,0,0,0,0,1,French Connection
+0,0,1,0,0,0,0,25,Flaming Dr. Pepper
+0,0,0,0,0,1,0,5,Flaming Lamborghini
+0,0,0,0,0,0,0,1,Flander's Flake-Out
+1,1,0,0,0,0,1,8,Frozen Mint Daiquiri
+1,1,0,0,1,0,0,0,Frozen Pineapple Daiquiri
+0,0,1,0,0,0,0,25,GG
+1,2,0,0,0,0,0,27,Gimlet
+0,0,0,0,0,1,0,5,Godchild
+1,1,0,0,0,0,0,8,Gin Fizz
+1,1,0,0,2,0,0,4,Gin Sour
+0,1,0,0,1,0,0,11,Gagliardo
+0,0,0,0,0,0,0,1,Godmother
+0,0,0,0,0,0,0,1,Godfather
+1,1,0,0,0,0,0,8,Gluehwein
+0,1,0,1,0,0,0,18,Gin Tonic
+1,1,0,0,0,0,0,8,Gin Toddy
+1,0,0,0,2,0,1,30,Gin Smash
+2,1,0,0,2,0,0,4,Gin Daisy
+0,2,0,0,0,0,0,6,Gin Lemon
+1,1,0,0,1,0,0,0,Gin Sling
+0,0,0,0,1,0,0,9,Greyhound
+1,2,0,0,0,0,0,27,Gin Rickey
+2,0,0,0,2,0,0,30,Gin Squirt
+0,1,0,0,1,0,0,11,Grand Blue
+1,1,0,0,1,0,0,0,Gin Cooler
+1,1,0,1,0,0,0,16,Gin Swizzle
+1,0,0,0,2,0,0,30,Grass Skirt
+0,0,0,0,0,1,1,5,Grasshopper
+1,0,0,0,0,0,0,15,Grim Reaper
+0,1,0,0,0,0,0,6,Gin and Soda
+0,0,0,0,1,1,0,24,Golden dream
+0,0,0,0,0,0,0,1,Green Goblin
+0,0,0,0,0,1,0,5,Grizzly Bear
+0,1,0,1,0,0,0,18,Gin And Tonic
+1,1,0,0,0,0,1,8,Gin Basil Smash
+1,0,0,0,0,0,0,15,Gentleman's Club
+1,1,0,0,0,0,0,8,Girl From Ipanema
+0,0,0,0,2,0,0,17,Garibaldi Negroni
+1,0,0,0,1,0,0,10,Gideon's Green Dinosaur
+0,1,0,0,2,0,0,4,Grape lemon pineapple Smoothie
+0,0,0,1,0,1,0,21,H.D.
+1,1,0,0,0,0,0,8,Honey Bee
+1,1,0,0,0,0,0,8,Hot Toddy
+0,0,1,0,0,0,0,25,Herbal flame
+0,1,1,1,0,0,0,18,Horse's Neck
+0,1,1,0,0,0,0,28,Happy Skipper
+1,1,0,0,2,0,0,4,Hunter's Moon
+0,0,1,0,2,0,0,17,Halloween Punch
+0,1,0,0,1,0,0,11,Havana Cocktail
+0,0,0,0,1,0,0,9,Holloween Punch
+3,0,0,1,0,0,0,7,Homemade Kahlua
+0,0,0,1,0,1,0,21,Hot Creamy Bush
+0,0,0,0,1,0,0,9,Harvey Wallbanger
+0,0,0,0,1,0,0,9,Hawaiian Cocktail
+0,1,0,0,1,0,0,11,Hemingway Special
+1,0,0,1,0,0,0,19,Highland Fling Cocktail
+2,0,0,0,0,0,0,7,Hot Chocolate to Die for
+1,1,1,0,1,0,0,0,Ipamena
+0,1,0,0,0,0,0,6,Ice Pick
+1,0,0,1,0,1,0,21,Iced Coffee
+2,0,0,0,0,1,0,20,Irish Cream
+1,0,0,1,0,1,0,21,Irish Coffee
+0,1,0,0,4,0,0,2,Irish Spring
+1,1,0,0,0,0,0,8,Imperial Fizz
+1,0,0,0,0,0,0,15,Irish Russian
+0,1,0,0,0,0,0,6,Imperial Cocktail
+0,0,0,1,0,0,0,23,Iced Coffee Fillip
+0,0,0,0,1,1,0,24,Irish Curdling Cow
+2,0,0,0,1,1,0,3,Jam Donut
+3,1,0,0,0,0,0,7,Jitterbug
+0,0,0,0,0,0,0,1,Jackhammer
+0,0,0,0,0,0,0,1,Jelly Bean
+0,0,0,0,0,0,0,1,Jello shots
+0,0,0,1,0,1,0,21,Jamaica Kiss
+1,1,0,0,2,0,0,4,John Collins
+1,1,0,0,0,1,0,8,Japanese Fizz
+0,0,0,1,0,1,0,21,Jamaican Coffee
+2,0,0,0,0,1,0,20,Just a Moonmint
+0,0,0,0,0,0,0,1,Jewel Of The Nile
+1,1,0,0,1,0,0,0,Jack Rose Cocktail
+2,0,0,0,0,0,0,7,Jack's Vanilla Coke
+0,0,0,0,0,0,0,1,Kir
+0,0,0,1,0,0,0,23,Karsk
+0,1,0,0,0,0,0,6,Kamikaze
+0,0,0,0,0,0,0,1,Kir Royale
+0,1,0,0,1,0,0,11,Kiwi Lemon
+1,0,0,0,0,0,0,15,Kurant Tea
+0,0,0,1,0,0,0,23,Kioki Coffee
+1,0,0,0,2,0,0,30,Kiwi Martini
+0,0,0,0,2,0,0,17,Kiss me Quick
+0,0,0,0,1,0,0,9,Kool-Aid Shot
+0,0,0,0,0,0,0,1,Kool First Aid
+0,0,0,0,0,0,0,1,Kentucky B And B
+0,1,0,0,0,0,0,6,Kentucky Colonel
+0,0,0,0,0,0,0,1,Kool-Aid Slammer
+0,0,0,0,1,0,0,9,Kiwi Papaya Smoothie
+0,1,1,0,0,0,0,28,Kill the cold Smoothie
+1,2,0,0,0,0,0,27,Limeade
+0,0,0,0,1,0,0,9,Lunch Box
+0,1,0,0,0,0,0,6,Lemon Drop
+1,1,0,0,0,0,0,8,Lemon Shot
+0,1,0,2,0,0,0,18,Long vodka
+0,0,0,0,0,0,0,1,Lassi Khara
+1,1,0,0,0,0,0,8,Lassi Raita
+1,1,2,0,0,0,0,22,Lemouroudji
+0,1,0,0,0,0,0,6,Loch Lomond
+0,0,0,1,0,0,0,23,London Town
+1,0,0,0,1,0,0,10,Lassi - Mango
+1,1,0,0,0,0,0,8,Lassi - Sweet
+0,0,0,0,0,0,0,1,Limona Corona
+0,0,0,0,0,0,0,1,Lord And Lady
+1,1,0,0,0,2,0,29,Lady Love Fizz
+1,1,0,0,0,0,0,8,Long Island Tea
+1,1,0,0,1,0,0,0,Lone Tree Cooler
+1,0,0,0,0,0,0,15,Lone Tree Cocktail
+0,0,0,0,1,0,0,9,Lazy Coconut Paloma
+1,1,0,0,0,0,0,8,Long Island Iced Tea
+0,1,0,0,0,0,0,6,Lemon Elderflower Spritzer
+0,0,0,0,0,0,1,14,Lassi - A South Indian Drink
+1,0,0,0,0,0,0,15,Melya
+1,1,0,0,0,0,1,8,Mojito
+0,0,0,0,1,0,0,9,Mimosa
+1,1,0,0,1,0,0,0,Mai Tai
+0,0,0,0,0,0,0,1,Martini
+0,1,1,0,0,0,0,28,Michelada
+1,0,0,1,2,0,0,30,Manhattan
+0,1,0,0,0,0,0,6,Margarita
+1,0,0,0,0,0,0,15,Mauresque
+1,0,0,0,0,0,1,15,Mint Julep
+0,0,0,0,1,0,0,9,Mudslinger
+1,0,0,1,0,0,0,19,Martinez 2
+1,0,0,0,0,0,0,15,Moranguito
+0,0,0,0,0,0,0,1,Miami Vice
+0,1,1,0,0,0,0,28,Moscow Mule
+1,1,0,0,0,0,0,8,Mulled Wine
+1,0,2,0,0,1,0,22,Masala Chai
+0,2,1,0,0,0,0,28,Munich Mule
+0,0,0,1,1,1,0,24,Mocha-Berry
+0,1,0,0,2,0,1,4,Mango Mojito
+0,1,0,1,0,0,1,18,Mojito Extra
+1,0,0,0,1,0,0,10,Monkey Gland
+0,0,0,0,0,2,1,29,Midnight Mint
+1,0,0,0,2,0,0,30,Mary Pickford
+0,0,0,1,1,0,0,26,Monkey Wrench
+0,0,0,0,0,1,0,5,Mother's Milk
+0,0,0,1,0,2,0,21,Midnight Manx
+0,0,0,0,1,0,0,9,Malibu Twister
+0,0,0,0,0,1,0,5,Midnight Cowboy
+1,1,0,0,1,0,1,0,Mountain Bramble
+0,0,0,1,1,0,0,26,Martinez Cocktail
+2,0,0,0,0,1,0,20,Microwave Hot Cocoa
+0,0,0,0,2,0,0,17,Mango Orange Smoothie
+1,1,0,0,0,0,0,8,Mississippi Planters Punch
+1,0,0,0,0,0,0,15,Negroni
+1,2,0,0,1,0,0,31,New York Sour
+0,0,0,0,0,2,0,29,Nutty Irishman
+0,2,0,0,0,0,0,6,National Aquarium
+0,1,0,0,0,0,0,6,New York Lemonade
+2,0,0,0,0,1,0,20,Nuked Hot Chocolate
+0,0,0,0,0,1,0,5,Orgasm
+0,0,0,0,0,0,0,1,Old Pal
+1,1,0,1,0,0,0,16,Old Cuban
+1,1,0,0,1,0,0,0,Orangeade
+0,0,0,0,1,1,0,24,Orange Whip
+0,0,0,0,1,0,0,9,Orange Crush
+0,0,1,0,2,0,0,17,Orange Oasis
+1,0,0,1,0,0,0,19,Old Fashioned
+1,0,0,0,0,1,0,20,Oreo Mudslide
+0,0,0,0,0,1,0,5,Oatmeal Cookie
+1,1,0,0,1,0,0,0,Orange Push-up
+1,1,0,0,2,0,1,4,Orange Rosemary Collins
+1,0,0,0,1,1,0,24,Orange Scented Hot Chocolate
+0,1,0,0,0,0,0,6,Owen's Grandmother's Revenge
+0,0,0,0,1,0,0,9,Paloma
+0,0,0,0,2,0,0,17,Paradise
+0,0,0,1,0,0,0,23,Pink Gin
+0,1,0,2,1,0,0,26,Pegu Club
+1,0,0,0,0,2,0,29,Pink Lady
+0,1,0,0,1,0,0,11,Pink Moon
+2,1,0,0,0,0,0,8,Penicillin
+1,1,0,0,0,1,0,8,Pisco Sour
+0,0,0,0,0,1,0,5,Porto flip
+0,0,0,0,1,1,0,24,Pina Colada
+0,0,0,0,3,0,0,2,Pink Penocha
+1,1,0,1,0,0,1,16,Pure Passion
+0,0,0,0,3,0,0,2,Popped cherry
+0,0,0,0,0,0,0,1,Poppy Cocktail
+1,0,0,0,0,2,0,29,Port Wine Flip
+1,0,0,0,2,0,0,30,Planter's Punch
+0,2,1,0,2,0,0,13,Pineapple Paloma
+0,1,0,0,1,0,0,11,Pornstar Martini
+2,0,0,1,2,0,0,30,Planter’s Punch
+1,0,0,0,0,0,1,15,Port And Starboard
+0,0,0,0,0,0,0,1,Port Wine Cocktail
+0,0,0,0,3,0,0,2,Pysch Vitamin Light
+1,1,0,0,0,0,0,8,Pink Panty Pulldowns
+1,0,0,0,1,0,0,10,Passion Fruit Martini
+0,0,1,0,1,0,0,9,Pineapple Gingerale Smoothie
+0,0,0,0,0,1,0,5,Quentin
+0,1,0,1,0,0,0,18,Queen Bee
+0,0,0,0,1,1,0,24,Quick F**K
+0,0,0,0,1,0,0,9,Quick-sand
+1,1,0,0,0,0,0,8,Queen Charlotte
+0,0,0,0,0,0,0,1,Queen Elizabeth
+1,1,0,0,0,0,0,8,Quaker's Cocktail
+0,1,0,0,0,0,0,6,Quarter Deck Cocktail
+2,1,0,0,1,0,0,0,Rose
+1,0,0,0,0,0,0,15,Radler
+1,1,0,0,2,0,0,4,Rum Sour
+0,0,1,0,2,0,0,17,Rum Punch
+1,1,0,0,0,0,0,8,Rum Toddy
+1,1,0,0,0,1,0,8,Royal Fizz
+0,2,0,0,0,0,0,6,Rum Cooler
+0,0,0,0,3,0,0,2,Rum Runner
+0,1,0,0,0,0,0,6,Rusty Nail
+0,0,0,0,1,0,0,9,Red Snapper
+0,0,0,0,0,0,0,1,Royal Bitch
+0,0,0,0,3,0,0,2,Royal Flush
+1,1,0,0,2,0,0,4,Rum Cobbler
+1,0,0,0,1,0,0,10,Ruby Tuesday
+1,1,1,0,0,0,0,8,Rail Splitter
+0,0,0,1,0,0,1,14,Rosemary Blue
+2,1,0,0,0,2,0,12,Ramos Gin Fizz
+1,1,0,0,0,1,0,8,Royal Gin Fizz
+1,0,0,0,0,1,0,20,Rum Milk Punch
+1,0,0,0,0,0,1,15,Raspberry Julep
+0,0,0,0,1,0,0,9,Rum Screwdriver
+0,1,0,0,1,0,0,11,Raspberry Cooler
+1,1,0,1,0,0,0,16,Rum Old-fashioned
+1,1,0,0,0,0,0,8,Russian Spring Punch
+0,0,0,0,2,0,0,17,Radioactive Long Island Iced Tea
+0,0,0,0,2,0,0,17,Smut
+0,0,0,0,0,0,0,1,Spritz
+0,0,0,0,0,1,0,5,Scooter
+1,1,0,0,1,0,0,0,Sangria
+0,0,0,0,0,0,1,14,Stinger
+1,1,0,1,0,0,0,16,Sazerac
+0,1,0,0,0,0,0,6,Sidecar
+0,0,0,1,2,0,0,17,Snowday
+1,1,0,0,1,0,0,0,Spice 75
+0,2,0,0,0,0,0,6,Snowball
+0,0,0,0,0,0,0,1,Shot-gun
+0,0,0,0,1,0,0,9,Salty Dog
+0,1,0,0,2,0,0,4,Stone Sour
+0,0,0,0,2,0,0,17,Sea breeze
+1,2,0,0,1,0,0,31,Scotch Sour
+0,0,0,0,0,1,0,5,Sweet Tooth
+0,0,0,0,1,0,0,9,Screwdriver
+1,0,0,0,0,2,0,29,Sherry Flip
+0,0,0,0,0,0,0,1,Sol Y Sombra
+0,1,0,0,0,0,0,6,Shark Attack
+1,0,0,0,1,0,0,10,San Francisco
+1,0,0,0,2,0,0,30,Space Odyssey
+1,0,0,0,0,2,0,29,Sherry Eggnog
+1,0,0,0,0,1,0,20,Sweet Bananas
+1,2,0,0,2,0,0,4,Sweet Sangria
+0,0,0,0,1,0,1,9,Scotch Cobbler
+0,0,0,1,0,0,0,23,Spiking coffee
+1,0,0,1,0,0,0,19,Swedish Coffee
+1,1,0,0,2,0,0,4,Singapore Sling
+0,0,0,0,0,1,0,5,Slippery Nipple
+0,0,0,0,0,0,0,1,Snake Bite (UK)
+0,0,0,0,0,1,0,5,Screaming Orgasm
+0,0,0,0,3,0,0,2,Sex on the Beach
+0,1,0,0,0,0,0,6,Sidecar Cocktail
+0,0,0,0,0,0,0,1,Spritz Veneziano
+0,0,0,1,0,0,0,23,Sloe Gin Cocktail
+1,0,0,0,0,2,0,29,Spanish chocolate
+1,1,0,0,2,0,0,4,Sangria The  Best
+1,1,0,0,0,0,0,8,Shanghai Cocktail
+1,1,0,0,2,0,0,4,Spiced Peach Punch
+1,0,0,0,1,0,0,10,Strawberry Shivers
+1,1,0,0,2,0,0,4,Strawberry Daiquiri
+1,1,0,0,1,0,0,0,Strawberry Lemonade
+0,0,0,0,0,0,0,1,Snakebite and Black
+0,1,0,0,3,0,0,2,Sunny Holiday Punch
+0,0,0,0,0,1,0,5,Surf City Lifesaver
+0,1,0,0,2,0,0,4,Strawberry Margarita
+3,0,0,0,0,0,0,7,Salted Toffee Martini
+1,1,0,0,0,0,0,8,Scottish Highland Liqueur
+0,1,0,0,3,0,2,2,Smashed Watermelon Margarita
+0,0,0,0,1,0,0,9,Thriller
+0,1,0,0,1,0,0,11,The Galah
+2,0,0,1,0,0,0,7,Tia-Maria
+1,0,0,0,0,0,0,15,Tipperary
+0,0,0,0,1,0,0,9,Turkeyball
+0,0,0,0,0,2,0,29,Texas Sling
+1,0,0,1,0,1,0,21,Thai Coffee
+1,1,0,0,2,0,0,4,Tom Collins
+0,1,0,0,0,0,0,6,Tomato Tang
+0,0,0,1,0,0,0,23,Talos Coffee
+0,0,0,1,0,1,0,21,Tennesee Mud
+1,1,1,0,0,1,0,22,Tequila Fizz
+1,2,0,0,1,0,0,31,Tequila Sour
+0,0,0,0,0,1,1,5,Thai Iced Tea
+0,1,0,0,0,0,0,6,The Last Word
+0,0,0,1,1,0,0,26,Turf Cocktail
+0,1,1,1,0,0,1,18,The Laverstoke
+1,0,0,0,0,0,0,15,Tequila Slammer
+1,0,0,0,1,0,0,10,Tequila Sunrise
+0,1,0,1,1,0,0,18,The Philosopher
+0,0,0,1,1,0,0,26,Tuxedo Cocktail
+0,0,1,0,0,0,0,25,Tequila Surprise
+1,0,0,1,0,1,0,21,Thai Iced Coffee
+0,0,0,0,1,0,0,9,The Jimmy Conway
+0,1,0,0,1,0,0,11,Texas Rattlesnake
+1,1,0,0,0,0,0,8,Tommy's Margarita
+2,1,0,0,1,0,0,0,The Strange Weaver
+0,0,0,0,0,0,0,1,The Evil Blue Thing
+0,0,0,0,0,0,0,1,Vesper
+1,0,0,0,0,0,0,15,Victor
+1,1,0,0,1,0,0,0,Vampiro
+2,1,0,0,0,1,0,20,Vesuvio
+0,0,0,0,1,0,0,9,Veteran
+1,1,0,0,0,0,0,8,Van Vleet
+0,1,0,0,0,0,0,6,Vodka Fizz
+0,2,0,0,0,0,0,6,Vodka Lemon
+1,1,0,0,0,0,0,8,Vodka Slime
+0,1,0,1,0,0,0,18,Vodka Tonic
+0,0,0,0,0,0,0,1,Vodka Martini
+0,0,0,0,0,0,0,1,Vodka Russian
+0,0,0,0,0,0,0,1,Vermouth Cassis
+1,1,0,0,2,0,0,4,Victory Collins
+0,0,0,1,0,0,0,23,Vodka And Tonic
+0,0,0,1,2,0,0,17,Valencia Cocktail
+0,0,0,0,0,0,0,1,Whisky Mac
+0,1,0,0,0,0,0,6,White Lady
+0,1,0,0,3,0,0,2,Wine Punch
+0,1,0,0,0,0,0,6,Wine Cooler
+1,1,0,0,1,0,0,0,Winter Rita
+1,2,0,0,1,0,0,31,Whiskey Sour
+0,0,0,1,0,1,0,21,White Russian
+1,1,1,0,1,0,0,0,Winter Paloma
+0,2,0,0,3,0,0,4,White Wine Sangria
+0,1,0,0,0,1,0,6,Whitecap Margarita
+0,0,0,0,1,0,0,9,Waikiki Beachcomber
+0,1,0,0,0,0,0,6,Yellow Bird
+0,0,0,0,1,0,0,9,Yoghurt Cooler
+0,0,0,0,0,1,1,5,Zorro
+0,0,0,0,1,0,0,9,Zinger
+2,2,0,0,0,0,0,27,Zoksel
+1,1,0,1,0,0,0,16,Zombie
+0,0,0,0,0,0,0,1,Zambeer
+0,0,0,0,0,0,0,1,Zorbatini
+0,0,0,0,0,0,0,1,Zenmeister
+0,0,0,0,1,0,0,9,Zipperhead
+0,0,0,0,1,0,0,9,Zima Blaster
+0,2,0,0,0,0,0,6,Zizi Coin-coin
+0,0,0,0,1,0,0,9,Zimadori Zinger
+0,0,0,0,0,0,0,1,Zippy's Revenge
+0,0,0,0,1,0,0,9,Ziemes Martini Apfelsaft
+0,0,0,0,1,0,0,9,155 Belmont
+0,0,0,0,0,0,0,1,110 in the shade
+1,0,0,0,0,1,0,20,151 Florida Bushwacker
+0,0,0,0,0,0,0,1,252
+0,0,0,0,0,0,0,1,24k nightmare
+0,0,0,0,0,0,0,1,3 Wise Men
+1,2,0,1,0,0,0,16,3-Mile Long Island Iced Tea
+1,0,0,0,1,0,0,10,410 Gone
+1,0,0,0,1,0,0,10,50/50
+1,1,0,0,1,0,0,0,501 Blue
+0,0,0,0,0,0,0,1,57 Chevy with a White License Plate
+1,1,0,0,0,0,0,8,69 Special
+0,0,0,0,0,1,0,5,747
+1,1,0,0,1,0,0,0,747 Drink
+0,0,0,0,3,0,0,2,9 1/2 Weeks
